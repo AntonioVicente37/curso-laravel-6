@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Tino Aula 1
+                    Laravel 
                 </div>
 
                 <div class="links">
